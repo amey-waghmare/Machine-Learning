@@ -14,5 +14,6 @@ d) TQDM (for progressbar during optimization)
   
 NN_SEEDS_VGD : Uses Vanilla Gradient Descent  
 NN_SEEDS_Fast GD : Various Optimizers are used (Momentum Based GD, Nesterov Momentum, AdaGrad, RMSProp, ADAM)  
+NN_SEEDS_Regularization : Various Regularization methods implemented (L2 Regularization, L1 Regularization, Dropout Regularization)
 
 
